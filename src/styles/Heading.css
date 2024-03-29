@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+    .mainHeading {
+      font-size: 10px !important;
+    }
+  
+    .navtabs {
+      flex-direction: row;
+      align-items: center;
+    }
+  
+    .navtabs > div {
+      margin-bottom: 10px;
+    }
+    .numberPaper{
+        margin-right: 2px !important;
+        width: 30px !important;
+        height: 20px !important;
+        border-radius: 50%;
+    }
+  }
+  
